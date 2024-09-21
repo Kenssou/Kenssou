@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 A passionate frontend developer from Nigeria
 🔭 I’m currently working on Word Wiz, a Spelling Bee website and application.<br><br>🌱 I’m currently learning Javascript<br><br>👯 I’m looking to collaborate on problem solving projects.<br><br>🤝 I’m looking for help with JavaScript and ReactJS<br><br>📫 How to reach me segunkenssou@gmail.com<br><br>
 
 
